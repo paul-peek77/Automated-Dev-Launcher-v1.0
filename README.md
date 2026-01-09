@@ -1,14 +1,14 @@
-# Automated Dev Launcher, v1.0 (ADL)
+## Automated Dev Launcher (ADL)
 
-A cross‑platform development environment orchestrator
-
----
-
-This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.
+#### A cross‑platform auto launch and shutdown system utilizing a unified terminal and browser for local dev testing.
 
 ---
 
-Overview
+*This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.*
+
+---
+
+#### Overview
 
 The Automated Dev Launcher (ADL) is a workflow automation tool designed to streamline complex multi‑service development environments. It coordinates:
 
@@ -33,7 +33,7 @@ No proprietary source code is included.
 
 ---
 
-Features
+#### Features
 
 🔥 Environment Orchestration
 
@@ -65,7 +65,7 @@ When the Chrome app window closes:
 
 ---
 
-Repository Structure
+#### Repository Structure
 
 Below is the repo layout using clean spacing (no markdown box):
 
@@ -87,7 +87,7 @@ Below is the repo layout using clean spacing (no markdown box):
 
 ---
 
-Placeholder Project Structure
+#### Placeholder Project Structure
 
 This placeholder exists solely to demonstrate the expected layout of a real project. It contains no functional code and no proprietary logic.
 
@@ -99,28 +99,18 @@ This placeholder exists solely to demonstrate the expected layout of a real proj
         firebase.json.example
         README.md
 
-Why this exists
+#### Why This Exists
 
 The launcher expects certain directories and files to exist.
 This placeholder shows the structure without exposing any real implementation.
 
 ---
 
-Site Map Example
-
-A simple site‑map is included to illustrate the intended project shape:
-
-    001 ./client/package.json
-    002 ./client/src/...
-    003 ./functions/index.js
-    004 ./firebase.json
-    005 ./firestore.rules
-
-This is for demonstration only.
+*This is for demonstration only.*
 
 ---
 
-Usage
+#### Usage
 
 1. Make the launcher executable
 `
@@ -148,7 +138,7 @@ Or use the .desktop file on Linux for a one‑click launch.
 
 ---
 
-Dependencies
+#### Dependencies
 
 - Node.js (via NVM)
 - Firebase CLI
@@ -159,7 +149,7 @@ Dependencies
 
 ---
 
-Limitations
+#### Limitations
 
 - Placeholder project is non‑functional
 - No proprietary code is included
@@ -167,7 +157,7 @@ Limitations
 
 ---
 
-Purpose
+#### Purpose
 
 This repo demonstrates:
 
@@ -176,5 +166,3 @@ This repo demonstrates:
 - developer tooling
 - cross‑service synchronization
 - automation design
-
-It is part of a larger portfolio showcasing systems engineering and workflow automation.
